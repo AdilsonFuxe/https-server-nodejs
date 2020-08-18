@@ -1,0 +1,6 @@
+node_modules/
+src/server/ssl/*.key
+src/server/ssl/*.crt
+src/server/ssl/*.csr
+src/server/ssl/*.p12
+src/server/ssl/*.srl
